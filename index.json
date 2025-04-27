@@ -1,5 +1,18 @@
 [
  {
+  "author": "ddh",
+  "icon": "https://cinemana.vip/wp-content/uploads/2024/01/favicon.png",
+  "lang": "ar-sa",
+  "license": "MIT",
+  "name": "Cinemana",
+  "nsfw": "false",
+  "package": "cinemana.vip",
+  "type": "dhom2",
+  "url": "cinemana.vip.js",
+  "version": "v0.2.1",
+  "webSite": "https://cinemana.vip"
+ },
+ {
   "author": "hualiong",
   "icon": "https://360zy.com/favicon.ico",
   "lang": "zh-cn",
