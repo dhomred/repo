@@ -1,7 +1,7 @@
 // ==MiruExtension==
 // @name         Cinemana
 // @version      v1.2.0
-// @author       YourName
+// @author       ddh
 // @lang         en
 // @license      MIT
 // @icon         https://cinemana.vip/wp-content/uploads/2024/01/favicon.png
